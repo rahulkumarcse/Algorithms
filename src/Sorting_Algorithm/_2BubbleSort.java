@@ -1,6 +1,6 @@
 package Sorting_Algorithm;
 
-public class BubbleSort_2 {
+public class _2BubbleSort {
     static void bubbleSort(int[] arr){
         int len=arr.length;
         for(int i=0;i<len-1;i++){

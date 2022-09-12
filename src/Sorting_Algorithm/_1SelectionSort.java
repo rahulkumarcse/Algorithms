@@ -1,6 +1,6 @@
 package Sorting_Algorithm;
 
-public class SelectionSort_01 {
+public class _1SelectionSort {
     static void selectionSort(int arr[]){
         for(int i=0;i<arr.length-1;i++){
             int min=i;
