@@ -1,4 +1,4 @@
-package Algorithms;
+package Searching_Algorithm;
 
 public class LinearSearch_01 {
     static int linearSearch(int[] arr,int n){

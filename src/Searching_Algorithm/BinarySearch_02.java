@@ -1,4 +1,4 @@
-package Algorithms;
+package Searching_Algorithm;
 import java.util.*;
 public class BinarySearch_02 {
     static int binarySearch(int[] arr,int n,int start,int end){
